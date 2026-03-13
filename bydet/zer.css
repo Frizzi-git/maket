@@ -1,0 +1,32 @@
+.zerGG {
+    display: flex;
+    position: relative;
+    --font-family: "Roboto", sans-serif;
+    
+}
+
+.tribl-img__zer {
+    padding-bottom: 10px;
+    position: absolute;
+    
+}
+
+.zerGG h1 {
+    font-weight: 800;
+    font-size: 56px;
+    line-height: 110%;
+}
+
+.zerGG p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+}
+
+.ss__zer {
+  margin-left: 80px;
+  text-decoration: none;
+  color: #2563eb;
+  display: flex;
+  
+}

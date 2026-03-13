@@ -1,0 +1,32 @@
+.enjoyGG {
+    display: flex;
+    position: relative;
+    --font-family: "Roboto", sans-serif;
+    
+}
+
+.tribl-img__enjoy {
+    padding-bottom: 10px;
+}
+
+.enjoyGG h1 {
+    font-weight: 800;
+    font-size: 56px;
+    line-height: 110%;
+    margin-left: 80px;
+}
+
+.enjoyGG p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+    margin-left: 80px;
+}
+
+.ss__enjoy {
+  margin-left: 80px;
+  text-decoration: none;
+  color: #2563eb;
+  display: flex;
+  
+}
