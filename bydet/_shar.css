@@ -1,0 +1,27 @@
+.sharGG {
+    background-image: url(../img/shar.png);
+    min-height: 496px;
+    min-width: 1280px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center;
+}
+
+.text__shar h1{
+font-weight: 700;
+font-size: 56px;
+line-height: 110%;
+color: white;
+}
+.text__shar p {
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 18px;
+line-height: 160%;
+color: white;
+}
+.text__shar a{
+    color: white;
+    text-decoration: none;
+    
+}
