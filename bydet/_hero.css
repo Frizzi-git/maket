@@ -2,7 +2,9 @@
     display: flex;
     position: relative;
     --font-family: "Roboto", sans-serif;
-    
+    padding-bottom: 90px;
+    padding-top: 80px;
+
 }
 
 .tribl-img__enjoy {
@@ -24,9 +26,9 @@
 }
 
 .ss__enjoy {
-  margin-left: 80px;
-  text-decoration: none;
-  color: #2563eb;
-  display: flex;
-  
+    margin-left: 80px;
+    text-decoration: none;
+    color: #2563eb;
+    display: flex;
+
 }

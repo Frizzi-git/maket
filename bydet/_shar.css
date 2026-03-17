@@ -5,6 +5,8 @@
     background-repeat: no-repeat;
     background-size: cover; 
     background-position: center;
+  
+
 }
 
 .text__shar h1{
@@ -13,6 +15,7 @@ font-size: 56px;
 line-height: 110%;
 color: white;
 }
+
 .text__shar p {
     font-family: var(--font-family);
 font-weight: 400;
@@ -20,8 +23,24 @@ font-size: 18px;
 line-height: 160%;
 color: white;
 }
+
 .text__shar a{
     color: white;
     text-decoration: none;
     
+}
+.cont {
+
+    justify-content: flex-start;
+    float: left;
+    width: 520px;
+}
+
+.text__shar {
+    text-align: left;
+    justify-content: flex-end;
+    background-position: center;
+    position: absolute;
+    left: 100px;
+    padding-left: 950px;
 }
