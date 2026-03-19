@@ -5,8 +5,6 @@
     background-repeat: no-repeat;
     background-size: cover; 
     background-position: center;
-  
-
 }
 
 .text__shar h1{
@@ -41,6 +39,6 @@ color: white;
     justify-content: flex-end;
     background-position: center;
     position: absolute;
-    left: 100px;
-    padding-left: 950px;
+    padding-left: 750px;
+    padding-top: 10px;
 }

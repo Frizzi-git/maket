@@ -1,0 +1,40 @@
+.podval {
+    display: flex;
+    min-width: 1280px;
+    padding: 60px 40px;
+
+    color: #6c757d;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.podval-left {
+    margin-right: 400px;
+    display: flex;
+}
+
+.podval-right {
+    gap: 40px;
+   display: flex;
+}
+
+.podval-link {
+    text-decoration: none;
+    color: #6c757d;
+}
+
+.podval-link:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+.magnifico{
+    color: black;
+    font-weight: 600;
+}
+
+.podval-text{
+display: flex;
+gap: 10px;
+}
