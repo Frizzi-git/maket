@@ -2,9 +2,7 @@
     display: flex;
     min-width: 1280px;
     padding: 60px 40px;
-
     color: #6c757d;
-    font-family: Arial, sans-serif;
     font-size: 16px;
     text-decoration: none;
 }
@@ -19,9 +17,10 @@
    display: flex;
 }
 
-.podval-link {
-    text-decoration: none;
+.podval-link, a {
     color: #6c757d;
+    text-decoration: none;
+    display: flex;
 }
 
 .podval-link:hover {

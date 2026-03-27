@@ -1,5 +1,6 @@
-@import url(bydet/header.css);
 @import url(bydet/_reset.css);
+@import url(bydet/_font.css);
+@import url(bydet/header.css);
 @import url(bydet/global.css);
 @import url(bydet/_vars.css);
 @import url(bydet/team.css);
