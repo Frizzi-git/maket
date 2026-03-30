@@ -1,39 +1,28 @@
 .podval {
     display: flex;
-    min-width: 1280px;
     padding: 60px 40px;
     color: #6c757d;
     font-size: 16px;
-    text-decoration: none;
-}
-
-.podval-left {
-    margin-right: 400px;
-    display: flex;
+    list-style-type: none;
+    
 }
 
 .podval-right {
     gap: 40px;
-   display: flex;
-}
-
-.podval-link, a {
-    color: #6c757d;
-    text-decoration: none;
     display: flex;
 }
 
-.podval-link:hover {
+
+.podval-list:hover {
     color: #0056b3;
-    text-decoration: underline;
 }
 
-.magnifico{
+.magnifico {
     color: black;
     font-weight: 600;
 }
 
-.podval-text{
-display: flex;
-gap: 10px;
+.podval-text {
+    display: flex;
+    gap: 10px;
 }
